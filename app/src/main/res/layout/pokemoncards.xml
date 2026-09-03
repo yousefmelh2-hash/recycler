@@ -35,12 +35,11 @@
         android:text="This is name one"
         android:textAlignment="center"/>
 
-
-
-
-
-
-
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="105dp"
+        android:layout_height="58dp"
+        app:srcCompat="@drawable/pikachu" />
 
 
 </androidx.cardview.widget.CardView>
