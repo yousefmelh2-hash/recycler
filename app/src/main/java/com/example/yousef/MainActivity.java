@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
     ArrayList<String> arrayListno=new ArrayList<>();
     ArrayList<String> arrayListnames=new ArrayList<>();
-    RVAdapter adapter;
+    RVAdapter adapter; //hi
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
